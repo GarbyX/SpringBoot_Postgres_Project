@@ -1,0 +1,1 @@
+insert into employee(employeeId, employeeName , employeeAddress,employeeEmail) values('1','Joe','NIG','joenosa@gmail.com');
