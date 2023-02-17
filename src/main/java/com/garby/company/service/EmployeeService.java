@@ -4,6 +4,7 @@ import com.garby.company.entity.Employee;
 
 import java.util.List;
 
+@Service
 public class EmployeeService {
 
     public void deleteEmployee(Employee emp) {
